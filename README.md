@@ -38,5 +38,9 @@ FoodCycle is an innovative app designed to manage and reduce food waste by facil
 - **Google Map API**: For Food Item Location
 - **RecyclerView**: For displaying data
 
+You can view the app screenshot in the following presentation:
+
+[App Screenshot](https://docs.google.com/presentation/d/1DCOk4NBQwQczvrs6lhEGDHQ0wHgumltA/edit#slide=id.p1)
+
 
 
