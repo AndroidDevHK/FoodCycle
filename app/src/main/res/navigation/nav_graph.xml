@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.nextgen.wastefoodmanagement.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/listingManagementFragment"
+        android:name="com.nextgen.wastefoodmanagement.ListingManagementFragment"
+        android:label="Listing Management"
+        tools:layout="@layout/fragment_listing_management" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.nextgen.wastefoodmanagement.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

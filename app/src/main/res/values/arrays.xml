@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="signup_types_array">
+        <item>Food Provider</item>
+        <item>Community Helper</item>
+    </string-array>
+
+</resources>
