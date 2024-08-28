@@ -32,10 +32,12 @@ FoodCycle is an innovative app designed to manage and reduce food waste by facil
 - **Java**
 
 ### Libraries & APIs
-- **Database**: Realtime Firestore Database
+- **Database**: Firebase Firestore Database
 - **For Authentication**: Firebase Auth Service
 - **For Image Storage**: Firebase Storage
 - **Google Map API**: For Food Item Location
+- **Glide**: For Image Loading
+- **Zelory Compressor**: For Image Compression
 - **RecyclerView**: For displaying data
 
 You can view the app screenshot in the following presentation:
